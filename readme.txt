@@ -1,0 +1,3 @@
+A index.html fájlban van egy fejléc, amely "Videochat" szöveget tartalmazza. A két videó keret egy-egy <video> elem, amelyekhez gombok (<button>) tartoznak. A style.css fájlban vannak a megjelenítéssel kapcsolatos formázási szabályok. A script.js fájlban találhatóak az eseménykezelők és a függvények a kamera indításához és leállításához.
+
+Fontos megjegyezni, hogy a webkamera használatához a weboldalnak biztonságos kapcsolaton (HTTPS) kell futnia, kivéve, ha helyi fejlesztői környezetben tesztelsz. Ezenkívül a webkamera hozzáférést a böngésző engedélyezését igényli, ezért a weboldalt támogató böngészőben meg kell adnod a kamera engedélyét a megfelelő működéshez.
